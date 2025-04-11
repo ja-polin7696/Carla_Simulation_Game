@@ -29,7 +29,7 @@ This project is a Python-based CARLA simulation that integrates joystick control
 
 ## 🖥️ Demo
 
-<img src="i[mages/drive_output.pn](https://media.licdn.com/dms/image/v2/C4D33AQEDVBUBtBDz9g/productpage-image_1128_635/productpage-image_1128_635/0/1663775950406/carla_simulator_image?e=2147483647&v=beta&t=29Cwx8RcZX9R6g9qurhJGuFRQY3QOfYN8klajWK07Pg)g" alt="Simulation Output" width="500"/>
+<img src="https://i.ytimg.com/vi/u2TxYhv3UKE/maxresdefault.jpg" alt="Simulation Output" width="500"/>
 
 
 ---
