@@ -46,10 +46,10 @@ Note: Ensure your joystick is plugged in before launching the script.
 ```🚀 Getting Started
 Start CARLA Simulator:
 
-```./CarlaUE4.sh```
+```./CarlaUE4.sh
 or on Windows:
 
-
+```
 ```CarlaUE4.exe
 Run the simulation:
 
