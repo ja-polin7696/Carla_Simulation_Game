@@ -42,7 +42,7 @@ Install dependencies:
 ```bash
 pip install pygame numpy opencv-python
 ```
-# Note: Ensure your joystick is plugged in before launching the script.
+### Note: Ensure your joystick is plugged in before launching the script.
 
 ## 🚀 Getting Started
 
