@@ -43,11 +43,12 @@ This project is a Python-based CARLA simulation that integrates joystick control
 
 ```bash
 ./CarlaUE4.sh
+```
 
 or on Windows:
 ```bash
 CarlaUE4.exe
-
+```
 
 
 # Check outputs:
