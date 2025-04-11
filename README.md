@@ -41,24 +41,25 @@ Python 3.7+
 
 Install dependencies:
 ```pip install pygame numpy opencv-python
+```
 Note: Ensure your joystick is plugged in before launching the script.
 
-```🚀 Getting Started
+🚀 Getting Started
 Start CARLA Simulator:
 
 ```./CarlaUE4.sh
-or on Windows:
-
 ```
+or on Windows:
 ```CarlaUE4.exe
+```
 Run the simulation:
 
 
 ```python carla_joystick_drive.py
+```
 
 
 # Check outputs:
-
 recordings/drive_output.mp4 – BEV camera footage
 recordings/collision_log.csv – Collision events
 
