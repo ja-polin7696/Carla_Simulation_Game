@@ -5,7 +5,7 @@ This project is a Python-based CARLA simulation that integrates joystick control
 
 # 🚘 CARLA Joystick-Controlled Simulation
 
-> Full-featured manual driving simulation in [CARLA](https://carla.org/) with joystick support, 5 RGB cameras, dynamic weather, multi-town support, and collision logging.
+> Full-featured manual driving simulation in [CARLA](https://carla.org/) with joystick support, 4 RGB cameras, dynamic weather, multi-town support, and collision logging.
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![CARLA](https://img.shields.io/badge/CARLA-0.9.13%2B-green)
