@@ -34,8 +34,15 @@ This project is a Python-based CARLA simulation that integrates joystick control
 ---
 
 ## 🧰 Requirements
-
-
+```bash
+CARLA Simulator (0.9.13+)
+Python 3.7+
+```
+Install dependencies:
+```bash
+pip install pygame numpy opencv-python
+```
+# Note: Ensure your joystick is plugged in before launching the script.
 
 ## 🚀 Getting Started
 
