@@ -52,7 +52,7 @@ Start CARLA Simulator:
 ./CarlaUE4.sh
 ```
 or on Windows:
-```
+
 CarlaUE4.exe
 ```
 Run the simulation:
