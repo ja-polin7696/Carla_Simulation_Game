@@ -66,3 +66,21 @@ python carla_joystick_drive.py
 recordings/drive_output.mp4 – BEV camera footage
 recordings/collision_log.csv – Collision events
 
+## 🧠 How It Works
+
+- 🚗 Spawns a **Tesla Model 3** as the ego vehicle
+- 📷 Attaches **5 RGB cameras**, including a **Bird's Eye View (BEV)** camera
+- 🚙 Spawns **30 autonomous vehicles** with autopilot enabled
+- 🧍 Spawns **10 AI-controlled pedestrians**
+- 💥 Listens for **collision events** and logs them to a `.csv` file
+- 🎮 Provides real-time **joystick control** for throttle, steering, gear shift, and braking
+- 🖥️ Displays **speed, gear status, and BEV footage** live on a Pygame window
+- 🧹 On shutdown, the script **cleans up all actors** and **saves logs + video**
+
+---
+
+## 📌 Notes
+
+- 🎮 Joystick mapping may vary by OS. This script is tested with **Logitech G920** on **Windows 10**.
+- 🛑 If no joystick is detected, the script **exits gracefully** with a message.
+- 🧪 For advanced research (e.g., integrating **YOLO**, **LiDAR**, or **V2V communication**), feel free
