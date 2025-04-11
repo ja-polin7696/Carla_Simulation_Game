@@ -46,7 +46,7 @@ pip install pygame numpy opencv-python
 
 ## 🚀 Getting Started
 
-### 🟢 Start CARLA Simulator
+### 1. Start CARLA Simulator
 
 ```bash
 ./CarlaUE4.sh
@@ -57,6 +57,10 @@ or on Windows:
 CarlaUE4.exe
 ```
 
+### 2. Run the simulation:
+```bash
+python carla_joystick_drive.py
+```
 
 # Check outputs:
 recordings/drive_output.mp4 – BEV camera footage
